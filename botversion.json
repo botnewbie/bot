@@ -1,10 +1,10 @@
 {
-	"versionCode": 111,
+	"versionCode": 113,
 	"isForceUpdate": 0,
 	"preBaselineCode": 0,
-	"versionName": "1.11",
-	"downurl": "https://botnewbie.github.io/bot/release.apk",
-	"updateLog": "1、[角色]选项下增加[每日购买10瓶50体力药水]功能\n2、[联盟]选项下增加使用金币刷指定颜色宝藏及接指定倍数颜色宝藏功能\n3、英雄试炼加入英雄桑娅\n4、[造兵]选项下增加指定每日兵种进阶次数选项\n5、暗夜城堡航运可以指定每日加速次数\n6、优化暗夜对战棋的出阵方案\n7、其它BUG修正",
+	"versionName": "1.13",
+	"downurl": "https://botnewbie.github.io/bot/aligned.apk",
+	"updateLog": "1、增加每日派1个兵攻打3次8周年BOSS功能(在打怪选项中勾选[世界BOSS]开启)\n2、最强王国/领主采集任务时自动使用采集加成道具\n3、领其它免费活动奖励、n4、BUG修正",
 	"size": "8232960",
 	"hasAffectCodes": "100|101|102|103|104|105"
 }
