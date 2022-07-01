@@ -1,8 +1,8 @@
 {
-	"versionCode": 114,
+	"versionCode": 115,
 	"isForceUpdate": 0,
 	"preBaselineCode": 0,
-	"versionName": "1.14",
+	"versionName": "1.15",
 	"downurl": "https://botnewbie.github.io/bot/protected.apk",
 	"updateLog": "1、增加自动购买、出售阵法功能\n2、领其它免费活动任务奖励\n3、BUG修正",
 	"size": "8278794",
