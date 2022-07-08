@@ -4,7 +4,7 @@
 	"preBaselineCode": 0,
 	"versionName": "1.16",
 	"downurl": "https://botnewbie.github.io/bot/protected116.apk",
-	"updateLog": "1、增加阵法[找货]功能,根据指定条件购买阵法"
+	"updateLog": "1、增加阵法找货功能,根据指定条件购买阵法"
 	"size": "8278794",
 	"hasAffectCodes": "100|101|102|103|104|105|110|111|112"
 }
