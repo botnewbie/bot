@@ -1,10 +1,10 @@
 {
-	"versionCode": 115,
+	"versionCode": 116,
 	"isForceUpdate": 0,
 	"preBaselineCode": 0,
-	"versionName": "1.15",
-	"downurl": "https://botnewbie.github.io/bot/aligned115.apk",
-	"updateLog": "1、增加自动购买、出售阵法功能\n2、领其它免费活动任务奖励\n3、BUG修正",
+	"versionName": "1.16",
+	"downurl": "https://botnewbie.github.io/bot/protected116.apk",
+	"updateLog": "1、增加阵法[找货]功能,根据指定条件购买阵法"
 	"size": "8278794",
 	"hasAffectCodes": "100|101|102|103|104|105|110|111|112"
 }
