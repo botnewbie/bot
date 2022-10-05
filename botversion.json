@@ -1,10 +1,10 @@
 {
-	"versionCode": 120,
+	"versionCode": 121,
 	"isForceUpdate": 1,
 	"preBaselineCode": 0,
-	"versionName": "1.20",
-	"downurl": "https://botnewbie.github.io/bot/BOT_Protected_v120.apk",
-	"updateLog": "1. 增加一个大项[龙币商城]\n2. [永夜城堡]增加魔宠契约合成功能\n3. [角色]增加一个设置休眠选项\n4. [最强领主]招募英雄时可以选择是否用完招募卡\n5. [皇家竞技商店]加了随迁和高迁\n6. 编组开放到6队\n7. BUG修正",
+	"versionName": "1.21",
+	"downurl": "https://botnewbie.github.io/bot/BOT_v121.apk",
+	"updateLog": "1. [角色]增加开罩白名单功能\n2. [角色]增加是否自动收文明堡垒开关\n3. 增加[不稳定商店]\n4. BUG修正",
 	"size": "8418876",
-	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118"
+	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119"
 }
