@@ -1,10 +1,10 @@
 {
-	"versionCode": 121,
+	"versionCode": 122,
 	"isForceUpdate": 1,
 	"preBaselineCode": 0,
-	"versionName": "1.21",
-	"downurl": "https://botnewbie.github.io/bot/BOT_v121.apk",
-	"updateLog": "1. [角色]增加开罩白名单功能\n2. [角色]增加是否自动收文明堡垒开关\n3. 增加[不稳定商店]\n4. BUG修正",
+	"versionName": "1.22",
+	"downurl": "https://botnewbie.github.io/bot/BOT_v122.apk",
+	"updateLog": "1. 帐号数量增加至30个,想做代挂的找我拿代理价\n2. [角色]作坊可以指定制造材料种类\n3. [采集]增加使用采集加成道具开关\n4. 更新皇家商店和不稳定商店商品\n5. BUG修正",
 	"size": "8418876",
-	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119"
+	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119|120"
 }
