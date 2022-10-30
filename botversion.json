@@ -1,10 +1,10 @@
 {
-	"versionCode": 122,
+	"versionCode": 123,
 	"isForceUpdate": 1,
 	"preBaselineCode": 0,
-	"versionName": "1.22",
-	"downurl": "https://botnewbie.github.io/bot/BOT_v122.apk",
-	"updateLog": "1. 帐号数量增加至30个,想做代挂的找我拿代理价\n2. [角色]作坊可以指定制造材料种类\n3. [采集]增加使用采集加成道具开关\n4. 更新皇家商店和不稳定商店商品\n5. BUG修正",
+	"versionName": "1.23",
+	"downurl": "https://botnewbie.github.io/bot/BOT_v123.apk",
+	"updateLog": "即日起,个人自挂停止开新号，已开帐号可继续续费.\n\n1. 做南瓜作战活动\n2. 三叶草商店增加完美宝石\n3. 关闭部分辅助功能\n4. 其它BUG修正"
 	"size": "8418876",
-	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119|120"
+	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119|120|121|122"
 }
