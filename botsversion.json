@@ -1,8 +1,8 @@
 {
-	"versionCode": 123,
+	"versionCode": 124,
 	"isForceUpdate": 1,
 	"preBaselineCode": 0,
-	"versionName": "1.23",
+	"versionName": "1.24",
 	"downurl": "https://botnewbie.github.io/bot/BOTS_v124.apk",
 	"updateLog": "1. [阵法找货]优化找货效率,不同时开扫货的情况下提升4倍效率 \n2. 找到符合属性的阵法但价格不合适时自动将该阵法加入收藏列表\n3. BUG修正",
 	"size": "8418876",
