@@ -1,10 +1,10 @@
 {
-	"versionCode": 127,
+	"versionCode": 126,
 	"isForceUpdate": 1,
 	"preBaselineCode": 0,
-	"versionName": "1.27",
+	"versionName": "1.26",
 	"downurl": "https://botnewbie.github.io/bot/BOT_v127.apk",
 	"updateLog": "1. 更新不稳定商店、暗影岛商店、小公主商店",
 	"size": "8418876",
-	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119|120|121|123|124|125|126"
+	"hasAffectCodes": "100|101|102|103|104|105|110|111|112|113|114|115|116|117|118|119|120|121|123|124|125"
 }
